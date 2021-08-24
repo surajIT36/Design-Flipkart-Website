@@ -1,0 +1,62 @@
+
+<br><br><br><br><br><br>
+<div class="container-show">
+  <div class="img-show">
+    <img src="tr1.jpeg" alt="" style="width: 250px; height: 220px;">
+   </div> 
+  <div class="content-show">
+  GODSON 1.4 L Water GS-J-1.4-1 Jug  (Copper)<br>
+  <font>Special price</font><br>
+  <b>₹540</b><font color="grey"><del>₹1899</font> <font color="green">71% off</font></del><br>
+    <span class="fa fa-star checked" ></span>
+    <span class="fa fa-star checked" ></span>
+    <span class="fa fa-star checked" ></span>
+    <span class="fa fa-star" ></span>
+    <span class="fa fa-star" ></span>
+    <br>
+    <ul>
+      <li>Special Price Get extra 16% off (price inclusive of discount)T&C</li>
+      <li>Bank Offer 10% Instant Discount with Axis Bank Credit and Debit Cards</li>
+      <li>Bank Offer 10% Instant Discount on Mastercard on Fashion for First 3 Prepaid Payment</li>
+      <li>Bank Offer 10% Instant Discount on ICICI Bank Credit Cards</li>
+    </ul>
+    <div class="sub"> 
+    <input type="button" value="Add To Card">&nbsp;&nbsp;
+    <button>Buy Now</button>
+    </div>
+  </div>
+</div>
+<br><br>
+
+
+.container-show{
+  /*border: 2px solid black;*/
+  display: inline-flex;
+}
+.img{
+  /*border: 2px solid black;*/
+  display: inline-flex;
+  padding-left: 25px;
+}
+.content-show{
+  /*border: 2px solid red;*/
+  padding-left: 200px;
+}
+input[type=button]{
+  background-color: orange;
+  color: white; 
+  width: 230px;
+  height: 50px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+button{
+  background-color: green;
+  color: white; 
+  width: 230px;
+  height: 50px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
